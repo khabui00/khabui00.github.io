@@ -5,7 +5,7 @@ image: images/UHlogo.jpg
 title: UH Esports
 permalink: projects/uhesports
 # All dates must be YYYY-MM-DD format!
-date: 2020-08-31 to Present
+date: 2020-08-31
 labels:
   - Esports
   - Communication
