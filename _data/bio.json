@@ -1,6 +1,6 @@
 {
   "basics": {
-    "name": "Nhan Bui",
+    "name": "Kha Bui",
     "label": "Student",
     "picture": "https://khabui00.github.io/images/Kha.jpg",
     "email": "kbui@hawaii.edu",
@@ -68,7 +68,7 @@
       "studyType": "B.S.",
       "startDate": "2018-08-26",
       "endDate": "Present",
-      "gpa": "3.49",
+      "gpa": "3.29",
       "courses": [
       ]
     }
