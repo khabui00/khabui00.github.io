@@ -3,10 +3,10 @@
     "name": "Nhan Bui",
     "label": "Student",
     "picture": "https://khabui00.github.io/images/Kha.jpg",
-    "email": "nhanb@hawaii.edu",
-    "phone": "808-741-7274",
-    "website": "https://nhanb106.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences and minoring in mathematics at the University of Hawaii. I expect to graduate in Spring, 2020.",
+    "email": "kbui@hawaii.edu",
+    "phone": "808-392-4571",
+    "website": "https://khabui00.github.io",
+    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences and minoring in mathematics at the University of Hawaii. I expect to graduate in Fall, 2022.",
     "location": {
       "address": "",
       "postalCode": "",
@@ -17,27 +17,27 @@
     "profiles": [
       {
         "network": "github",
-        "username": "nhanb106",
-        "url": "http://github.com/nhanb106"
+        "username": "khabui00",
+        "url": "http://github.com/khabui00"
       },
       {
         "network": "linkedin",
-        "username": "Nhan Bui",
-        "url": "https://www.linkedin.com/in/nhan-bui-4a7a58203//"
+        "username": "Kha Bui",
+        "url": "https://www.linkedin.com/in/kha-bui/"
       },
       
     ]
   },
   "interests": [
     {
-      "name": "Computer Science",
+      "name": "Video Game Development",
       "keywords": [
-        "Arduino",
-        "TI MSP430"
+        "",
+        ""
       ]
     },
     {
-      "name": "Game development",
+      "name": "Software Engineering",
       "keywords": [
       ]
     },
