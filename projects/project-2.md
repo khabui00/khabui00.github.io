@@ -13,10 +13,12 @@ labels:
   - Healthcare
 summary: Teaching 4th graders at Hokulani Elementary School how to do CPR.
 ---
+<div class="ui small rounded images">
+  <img class="ui image" src="../images/HOSA1.jpg">
+  <img class="ui image" src="../images/HOSA2.jpg">
+  <img class="ui image" src="../images/CPR hokulani.jpg">
+</div>
 
-<img class="ui image" src="../images/HOSA1.jpg">
-<img class="ui image" src="../images/HOSA2.jpg">
-<img class="ui image" src="../images/CPR hokulani.jpg">
 
 In my senior year of high school, my teacher assigned us with a community outreach project to help teach elementary school students CPR. My team decided to reach out to Hokulani Elementary to set up an event. We were able to connect with the 4th grade teachers and had all of the 4th grade students attend our event. We taught the 4th graders how to perform cpr on adult dunnies as well as the baby dummies. There were also training defibrillators to use for practice.
 
