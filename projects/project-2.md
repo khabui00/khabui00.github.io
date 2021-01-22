@@ -13,7 +13,7 @@ labels:
   - Healthcare
 summary: Teaching 4th graders at Hokulani Elementary School how to do CPR.
 ---
-<div class="ui small rounded images">
+<div class="ui medium rounded images">
   <img class="ui image" src="../images/HOSA1.jpg">
   <img class="ui image" src="../images/HOSA2.jpg">
   <img class="ui image" src="../images/CPR hokulani.jpg">
