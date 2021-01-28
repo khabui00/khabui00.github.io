@@ -68,7 +68,7 @@
       "studyType": "B.S.",
       "startDate": "2018-08-26",
       "endDate": "Present",
-      "gpa": "3.29",
+      "gpa": "3.28",
       "courses": [
       ]
     }
@@ -86,45 +86,6 @@
         ""
       ]
     },
-    {
-      "company": "",
-      "position": "",
-      "website": "",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
-      "highlights": [
-        "",
-        ""
-      ]
-    }
-  ],
-  "volunteer": [
-    {
-      "organization": "",
-      "website": "",
-      "position": "",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
-      "highlights": [
-        "",
-        ""
-      ]
-    },
-    {
-      "organization": "",
-      "website": "",
-      "position": "",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
-      "highlights": [
-        "",
-        "",
-        ""
-      ]
-    }
   ],
   "awards": [
     {
@@ -133,17 +94,5 @@
       "awarder": "HOSA",
       "summary": "My team won 3rd place in the annual HOSA competitive events for Biomedical Debate"
     },
-    {
-      "title": "",
-      "date": "",
-      "awarder": "",
-      "summary": ""
-    }
   ],
-  "references": [
-    {
-      "name": "",
-      "": ""
-    }
-  ]
 }
