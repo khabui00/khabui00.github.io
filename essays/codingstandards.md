@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: Coding Standards
+title: Ugly Hnadwriting
 # All dates must be YYYY-MM-DD format!
 date: 2021-02-11
 labels:
