@@ -18,4 +18,6 @@ I learned about configuration management through GitHub. Configuration managemen
 
 My group members and I used GitHub to develop our website Meow Mapper. We were able to develop pages and make changes to the code without worrying about breaking anything. Even when something did break, it was contained within its separate branch and we were able to go in there and fix the problems. Eventually, we were able to complete our website to the best of our abilities using the knowledge we have learned throughout the semester.
 
-## Agile 
+## Agile Project Management
+
+Another big concept we learned was agile project management. Agile project management 
