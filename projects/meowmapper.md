@@ -3,7 +3,7 @@ layout: project
 type: project
 image: images/meowmapper.png
 title: Meow Mapper
-permalink: projects/hosabiomedicaldebate
+permalink: projects/meowmapper
 # All dates must be YYYY-MM-DD format!
 date: 2018-02-23
 labels:
