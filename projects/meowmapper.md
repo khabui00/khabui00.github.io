@@ -28,4 +28,5 @@ The volunteer page has a button that brings up a form for people to fill out if 
 We also made a donation page with a button that doesn't do anything because we are not really looking for donations, but if it were to work, the donations would go to buying supplies and food for the stray cats.
 
 The website is available at <a href="https://meowmapper.com/">https://meowmapper.com/</a>. 
+
 Our homepage for our website is located at <a href="https://meowmapper.com/">https://meow-mapper.github.io/</a>.
