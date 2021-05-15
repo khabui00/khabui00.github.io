@@ -24,4 +24,5 @@ The Snatch a Cat page lets the user̀ see the cats that are available for adopti
 The Cat Snaps page is for users to take pictures of the stray cats that they see around campus as a way to track them. The cards have a location tag on them for users who want to track down the cats.
 <img class="ui image" src="../images/volunteer.png">
 The volunteer page has a button that brings up a form for people to fill out if they want to volunteer their time to help out the stray cats on campus.
-
+<img class="ui image" src="../images/donations.png">
+We also made a donation page with a button that doesn't do anything because we are not really looking for donations, but if it were to work, the donations would go to buying supplies and food for the stray cats.
