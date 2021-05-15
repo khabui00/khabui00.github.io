@@ -20,4 +20,8 @@ My group members and I used GitHub to develop our website Meow Mapper. We were a
 
 ## Agile Project Management
 
-Another big concept we learned was agile project management. Agile project management 
+Another big concept we learned was agile project management. Agile project management is basically like eating three meals a day. Instead of doing the whole project at once, we would split it up into digestable parts as a way to meet deadlines and make it easier on ourselves. When the project was assigned to us, I thought the project was way to big and I had no idea how we were ever going to finish it. Then, the professor introduced to us the concept of agile project management. The project was then divided up into three milestone. For each milestone, each person would be assigned issues that were split up into 72 hour increments. Each milestone were due in about a week which let us progress in a manageable timeline. With the project all split up, my group members and I were able to complete our own issues and merge them into the final website that we have right now.
+
+## Another Chapter in my Book
+
+Throughout the semesters, I have learned many skills and techniques taught by Profesor Johnson. We did many WODs (Workout of the day) 
