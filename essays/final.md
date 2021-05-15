@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: Software Engineering 
+title: Another Chapter in my Book
 # All dates must be YYYY-MM-DD format!
 date: 2021-05-14
 labels:
@@ -22,6 +22,6 @@ My group members and I used GitHub to develop our website Meow Mapper. We were a
 
 Another big concept we learned was agile project management. Agile project management is basically like eating three meals a day. Instead of doing the whole project at once, we would split it up into digestable parts as a way to meet deadlines and make it easier on ourselves. When the project was assigned to us, I thought the project was way to big and I had no idea how we were ever going to finish it. Then, the professor introduced to us the concept of agile project management. The project was then divided up into three milestone. For each milestone, each person would be assigned issues that were split up into 72 hour increments. Each milestone were due in about a week which let us progress in a manageable timeline. With the project all split up, my group members and I were able to complete our own issues and merge them into the final website that we have right now.
 
-## Another Chapter in my Book
+## Reflection
 
-Throughout the semesters, I have learned many skills and techniques taught by Profesor Johnson. We did many WODs (Workout of the day) 
+Throughout the semesters, I have learned many skills and techniques taught by Professor Johnson. We did a lot of WODs(Workout of the day) as a way to prepare for future interviews and technical questions. THe WODs were timed so we only had a small amout of time to solve the problem that were required of us. The WODs required you to do some preparation beforehand whether it was doing the homework or reading and watching the material that the professor has posted on the topic. For the first few WODs, I made the mistake of not preparing adequetley for them and got them wrong. Eventually, I took them more seriously and was able to complete most of the WODs. Overall, I thoroughly enjoyed the class and the professor as well as the teaching assistant did an excellent job teaching us the content. 
