@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/HOSA brand.jpg
+image: images/meowmapper.png
 title: Meow Mapper
 permalink: projects/hosabiomedicaldebate
 # All dates must be YYYY-MM-DD format!
